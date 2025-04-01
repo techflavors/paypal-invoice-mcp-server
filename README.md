@@ -1,0 +1,1 @@
+Update or create  claude_desktop_config.json at /Users/<userid>>/Library/Application Support/Claude

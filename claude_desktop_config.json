@@ -1,0 +1,22 @@
+{
+    "mcpServers": {
+		"weather": {
+			"command": "/Users/bijubalakrishnan/.local/bin/uv",
+			"args": [
+				"--directory",
+				"/Users/bijubalakrishnan/Documents/learninga/mcp/weather",
+				"run",
+				"weather.py"
+			]
+		},
+		"paypal-invoice": {
+			"command": "/Users/bijubalakrishnan/.local/bin/uv",
+			"args": [
+				"--directory",
+				"/Users/bijubalakrishnan/Documents/learninga/mcp/paypal-invoice",
+				"run",
+				"main.py"
+			]
+		}
+	}
+}
