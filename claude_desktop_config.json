@@ -4,7 +4,7 @@
 			"command": "/Users/bijubalakrishnan/.local/bin/uv",
 			"args": [
 				"--directory",
-				"/Users/bijubalakrishnan/Documents/learninga/mcp/weather",
+				"/Users/bijubalakrishnan/Documents/learninga/mcp/weather-mcp-server",  
 				"run",
 				"weather.py"
 			]
@@ -13,7 +13,7 @@
 			"command": "/Users/bijubalakrishnan/.local/bin/uv",
 			"args": [
 				"--directory",
-				"/Users/bijubalakrishnan/Documents/learninga/mcp/paypal-invoice",
+				"/Users/bijubalakrishnan/Documents/learninga/mcp/paypal-invoice-mcp-server",
 				"run",
 				"main.py"
 			]
